@@ -1,4 +1,4 @@
-🏆 #Jogo de Heróis - Classe Hero
+🏆 Jogo de Heróis - Classe Hero
 
 📜 Sobre o Projeto
 
